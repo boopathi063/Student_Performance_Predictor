@@ -4,10 +4,20 @@ Predict students’ mathematics scores based on demographics, educational backgr
 Built with **Python**, **scikit-learn**, **XGBoost**, **CatBoost**, and a simple **Flask web app** for predictions.
 
 ---
+## 🖼️ Project Screenshots  
+
+### 🏠 Home Page  
+![Home Page](Result_Image/Home_Page.jpg)
+
+### 📊 Model Performance Metrics  
+![Model Performance](Result_Image/Model_Performance_Metrics.jpg)
+
+### 🧾 Prediction Result  
+![Result Page](Result_Image/Result.jpg)
+
+---
 
 ## 📁 Project Structure
-
-
 
 ├── artifacts/ # Saved ML artifacts and datasets
 │ ├── data.csv
