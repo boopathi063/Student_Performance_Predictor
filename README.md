@@ -1,7 +1,7 @@
 # 🎓 Student Performance Predictor
 
 Predict students’ mathematics scores based on demographics, educational background, and academic performance using Machine Learning.  
-Built with **Python**, **scikit-learn**, **XGBoost**, **CatBoost**, and a simple **Flask web app** for predictions.
+Built with **Python**, **Linear Regression**, **scikit-learn**, **XGBoost**, **CatBoost**, and a simple **Flask web app** for predictions.
 
 ---
 ## 🖼️ Project Screenshots  
